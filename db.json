@@ -1,0 +1,28 @@
+{
+	"clients": [
+		{
+			"id": 1,
+			"name": "John Smith",
+			"phone": 123456789,
+			"hobbies": ["Reading", "Drawing"]
+		},
+		{
+			"id": 2,
+			"name": "Joh Smith",
+			"phone": 123456789,
+			"hobbies": ["Cycling", "Drawing"]
+		},
+		{
+			"id": 3,
+			"name": "Jo Smiths",
+			"phone": 123456789,
+			"hobbies": ["Reading", "Swimming"]
+		},
+		{
+			"id": 4,
+			"name": "J Smit",
+			"phone": 123456789,
+			"hobbies": []
+		}
+	]
+}
